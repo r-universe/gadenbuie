@@ -63,3 +63,11 @@
 	url = https://github.com/gadenbuie/regexplain
 	shallow = true
 	branch = master
+[submodule "ipapi"]
+	path = ipapi
+	url = https://github.com/hrbrmstr/ipapi
+	shallow = true
+[submodule "sass"]
+	path = sass
+	url = https://github.com/rstudio/sass
+	shallow = true

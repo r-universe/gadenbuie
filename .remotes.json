@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ipapi",
+    "url": "https://github.com/hrbrmstr/ipapi",
+    "via": ["rsthemes"],
+    "from": "rsthemes"
+  },
+  {
+    "package": "sass",
+    "url": "https://github.com/rstudio/sass",
+    "via": ["rsthemes"],
+    "from": "rsthemes"
+  }
+]
