@@ -18,6 +18,11 @@
 	url = https://github.com/gadenbuie/starwarsdb
 	shallow = true
 	branch = main
+[submodule "grkstyle"]
+	path = grkstyle
+	url = https://github.com/gadenbuie/grkstyle
+	shallow = true
+	branch = main
 [submodule "xaringanExtra"]
 	path = xaringanExtra
 	url = https://github.com/gadenbuie/xaringanExtra
