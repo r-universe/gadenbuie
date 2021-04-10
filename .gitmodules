@@ -8,71 +8,86 @@
 	url = https://github.com/gadenbuie/xaringanthemer
 	shallow = true
 	branch = master
+	registered = true
 [submodule "metathis"]
 	path = metathis
 	url = https://github.com/gadenbuie/metathis
 	shallow = true
 	branch = main
+	registered = true
 [submodule "starwarsdb"]
 	path = starwarsdb
 	url = https://github.com/gadenbuie/starwarsdb
 	shallow = true
 	branch = main
+	registered = true
 [submodule "grkstyle"]
 	path = grkstyle
 	url = https://github.com/gadenbuie/grkstyle
 	shallow = true
 	branch = main
+	registered = true
 [submodule "xaringanExtra"]
 	path = xaringanExtra
 	url = https://github.com/gadenbuie/xaringanExtra
 	shallow = true
 	branch = master
+	registered = true
 [submodule "shrtcts"]
 	path = shrtcts
 	url = https://github.com/gadenbuie/shrtcts
 	shallow = true
 	branch = main
+	registered = true
 [submodule "rsthemes"]
 	path = rsthemes
 	url = https://github.com/gadenbuie/rsthemes
 	shallow = true
 	branch = main
+	registered = true
 [submodule "cleanrmd"]
 	path = cleanrmd
 	url = https://github.com/gadenbuie/cleanrmd
 	shallow = true
 	branch = master
+	registered = true
 [submodule "js4shiny"]
 	path = js4shiny
 	url = https://github.com/gadenbuie/js4shiny
 	shallow = true
 	branch = master
+	registered = true
 [submodule "epoxy"]
 	path = epoxy
 	url = https://github.com/gadenbuie/epoxy
 	shallow = true
 	branch = master
+	registered = true
 [submodule "shinyComponents"]
 	path = shinyComponents
 	url = https://github.com/gadenbuie/shinyComponents
 	shallow = true
 	branch = master
+	registered = true
 [submodule "countdown"]
 	path = countdown
 	url = https://github.com/gadenbuie/countdown
 	shallow = true
 	branch = master
+	registered = true
 [submodule "regexplain"]
 	path = regexplain
 	url = https://github.com/gadenbuie/regexplain
 	shallow = true
 	branch = master
+	registered = true
 [submodule "ipapi"]
 	path = ipapi
 	url = https://github.com/hrbrmstr/ipapi
 	shallow = true
+	registered = false
 [submodule "sass"]
 	path = sass
 	url = https://github.com/rstudio/sass
 	shallow = true
+	registered = false
