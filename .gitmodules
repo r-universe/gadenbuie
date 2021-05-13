@@ -9,100 +9,85 @@
 	shallow = true
 	branch = master
 	registered = true
-	oncran = true
 [submodule "metathis"]
 	path = metathis
 	url = https://github.com/gadenbuie/metathis
 	shallow = true
 	branch = main
 	registered = true
-	oncran = true
 [submodule "starwarsdb"]
 	path = starwarsdb
 	url = https://github.com/gadenbuie/starwarsdb
 	shallow = true
 	branch = main
 	registered = true
-	oncran = true
 [submodule "grkstyle"]
 	path = grkstyle
 	url = https://github.com/gadenbuie/grkstyle
 	shallow = true
 	branch = main
 	registered = true
-	oncran = false
 [submodule "xaringanExtra"]
 	path = xaringanExtra
 	url = https://github.com/gadenbuie/xaringanExtra
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "shrtcts"]
 	path = shrtcts
 	url = https://github.com/gadenbuie/shrtcts
 	shallow = true
 	branch = main
 	registered = true
-	oncran = false
 [submodule "rsthemes"]
 	path = rsthemes
 	url = https://github.com/gadenbuie/rsthemes
 	shallow = true
 	branch = main
 	registered = true
-	oncran = false
 [submodule "cleanrmd"]
 	path = cleanrmd
 	url = https://github.com/gadenbuie/cleanrmd
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "js4shiny"]
 	path = js4shiny
 	url = https://github.com/gadenbuie/js4shiny
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "epoxy"]
 	path = epoxy
 	url = https://github.com/gadenbuie/epoxy
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "shinyComponents"]
 	path = shinyComponents
 	url = https://github.com/gadenbuie/shinyComponents
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "countdown"]
 	path = countdown
 	url = https://github.com/gadenbuie/countdown
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "regexplain"]
 	path = regexplain
 	url = https://github.com/gadenbuie/regexplain
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "ipapi"]
 	path = ipapi
 	url = https://github.com/hrbrmstr/ipapi
 	shallow = true
 	registered = false
-	oncran = false
 [submodule "sass"]
 	path = sass
 	url = https://github.com/rstudio/sass
 	shallow = true
 	registered = false
-	oncran = true

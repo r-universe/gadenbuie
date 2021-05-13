@@ -1,0 +1,54 @@
+[
+  {
+    "package": "xaringanthemer",
+    "oncran": true
+  },
+  {
+    "package": "metathis",
+    "oncran": true
+  },
+  {
+    "package": "starwarsdb",
+    "oncran": true
+  },
+  {
+    "package": "grkstyle",
+    "oncran": false
+  },
+  {
+    "package": "xaringanExtra",
+    "oncran": false
+  },
+  {
+    "package": "shrtcts",
+    "oncran": false
+  },
+  {
+    "package": "rsthemes",
+    "oncran": false
+  },
+  {
+    "package": "cleanrmd",
+    "oncran": false
+  },
+  {
+    "package": "js4shiny",
+    "oncran": false
+  },
+  {
+    "package": "epoxy",
+    "oncran": false
+  },
+  {
+    "package": "shinyComponents",
+    "oncran": false
+  },
+  {
+    "package": "countdown",
+    "oncran": false
+  },
+  {
+    "package": "regexplain",
+    "oncran": false
+  }
+]
