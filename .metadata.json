@@ -12,43 +12,33 @@
     "oncran": true
   },
   {
-    "package": "grkstyle",
-    "oncran": false
+    "package": "grkstyle"
   },
   {
-    "package": "xaringanExtra",
-    "oncran": false
+    "package": "xaringanExtra"
   },
   {
-    "package": "shrtcts",
-    "oncran": false
+    "package": "shrtcts"
   },
   {
-    "package": "rsthemes",
-    "oncran": false
+    "package": "rsthemes"
   },
   {
-    "package": "cleanrmd",
-    "oncran": false
+    "package": "cleanrmd"
   },
   {
-    "package": "js4shiny",
-    "oncran": false
+    "package": "js4shiny"
   },
   {
-    "package": "epoxy",
-    "oncran": false
+    "package": "epoxy"
   },
   {
-    "package": "shinyComponents",
-    "oncran": false
+    "package": "shinyComponents"
   },
   {
-    "package": "countdown",
-    "oncran": false
+    "package": "countdown"
   },
   {
-    "package": "regexplain",
-    "oncran": false
+    "package": "regexplain"
   }
 ]
