@@ -33,6 +33,9 @@
     "package": "epoxy"
   },
   {
+    "package": "ermoji"
+  },
+  {
     "package": "shinyComponents"
   },
   {

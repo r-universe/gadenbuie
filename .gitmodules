@@ -63,6 +63,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "ermoji"]
+	path = ermoji
+	url = https://github.com/gadenbuie/ermoji
+	shallow = true
+	branch = master
+	registered = true
 [submodule "shinyComponents"]
 	path = shinyComponents
 	url = https://github.com/gadenbuie/shinyComponents
