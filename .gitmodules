@@ -67,7 +67,7 @@
 	path = ermoji
 	url = https://github.com/gadenbuie/ermoji
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "shinyComponents"]
 	path = shinyComponents
@@ -86,6 +86,12 @@
 	url = https://github.com/gadenbuie/regexplain
 	shallow = true
 	branch = master
+	registered = true
+[submodule "tweetrmd"]
+	path = tweetrmd
+	url = https://github.com/gadenbuie/tweetrmd
+	shallow = true
+	branch = main
 	registered = true
 [submodule "ipapi"]
 	path = ipapi
