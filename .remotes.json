@@ -1,5 +1,11 @@
 [
   {
+    "package": "chromote",
+    "url": "https://github.com/rstudio/chromote",
+    "via": ["tweetrmd", "webshot2"],
+    "from": "tweetrmd"
+  },
+  {
     "package": "emo",
     "url": "https://github.com/hadley/emo",
     "via": ["ermoji"],
@@ -16,5 +22,11 @@
     "url": "https://github.com/rstudio/sass",
     "via": ["rsthemes"],
     "from": "rsthemes"
+  },
+  {
+    "package": "webshot2",
+    "url": "https://github.com/rstudio/webshot2",
+    "via": ["tweetrmd"],
+    "from": "tweetrmd"
   }
 ]
