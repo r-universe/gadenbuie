@@ -1,5 +1,11 @@
 [
   {
+    "package": "emo",
+    "url": "https://github.com/hadley/emo",
+    "via": ["ermoji"],
+    "from": "ermoji"
+  },
+  {
     "package": "ipapi",
     "url": "https://github.com/hrbrmstr/ipapi",
     "via": ["rsthemes"],

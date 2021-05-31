@@ -93,6 +93,11 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "emo"]
+	path = emo
+	url = https://github.com/hadley/emo
+	shallow = true
+	registered = false
 [submodule "ipapi"]
 	path = ipapi
 	url = https://github.com/hrbrmstr/ipapi
