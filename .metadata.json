@@ -45,6 +45,9 @@
     "package": "regexplain"
   },
   {
+    "package": "lorem"
+  },
+  {
     "package": "tweetrmd"
   }
 ]

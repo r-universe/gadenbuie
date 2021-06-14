@@ -87,6 +87,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "lorem"]
+	path = lorem
+	url = https://github.com/gadenbuie/lorem
+	shallow = true
+	branch = main
+	registered = true
 [submodule "tweetrmd"]
 	path = tweetrmd
 	url = https://github.com/gadenbuie/tweetrmd
