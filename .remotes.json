@@ -6,6 +6,18 @@
     "from": "tweetrmd"
   },
   {
+    "package": "chromote",
+    "url": "https://github.com/rstudio/chromote",
+    "via": ["xaringanBuilder"],
+    "from": "xaringanBuilder"
+  },
+  {
+    "package": "chromote",
+    "url": "https://github.com/rstudio/chromote",
+    "via": ["xaringanBuilder", "webshot2"],
+    "from": "xaringanBuilder"
+  },
+  {
     "package": "emo",
     "url": "https://github.com/hadley/emo",
     "via": ["ermoji"],
@@ -28,5 +40,17 @@
     "url": "https://github.com/rstudio/webshot2",
     "via": ["tweetrmd"],
     "from": "tweetrmd"
+  },
+  {
+    "package": "webshot2",
+    "url": "https://github.com/rstudio/webshot2",
+    "via": ["xaringanBuilder"],
+    "from": "xaringanBuilder"
+  },
+  {
+    "package": "xaringanExtra",
+    "url": "https://github.com/gadenbuie/xaringanExtra",
+    "via": ["xaringanBuilder"],
+    "from": "xaringanBuilder"
   }
 ]
