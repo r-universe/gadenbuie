@@ -39,6 +39,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "rsthemes"]
+	path = rsthemes
+	url = https://github.com/gadenbuie/rsthemes
+	shallow = true
+	branch = main
+	registered = true
 [submodule "cleanrmd"]
 	path = cleanrmd
 	url = https://github.com/gadenbuie/cleanrmd
@@ -56,6 +62,12 @@
 	url = https://github.com/gadenbuie/epoxy
 	shallow = true
 	branch = master
+	registered = true
+[submodule "ermoji"]
+	path = ermoji
+	url = https://github.com/gadenbuie/ermoji
+	shallow = true
+	branch = main
 	registered = true
 [submodule "shinyComponents"]
 	path = shinyComponents
@@ -78,6 +90,18 @@
 [submodule "lorem"]
 	path = lorem
 	url = https://github.com/gadenbuie/lorem
+	shallow = true
+	branch = main
+	registered = true
+[submodule "xaringanBuilder"]
+	path = xaringanBuilder
+	url = https://github.com/jhelvy/xaringanBuilder
+	shallow = true
+	branch = master
+	registered = true
+[submodule "tweetrmd"]
+	path = tweetrmd
+	url = https://github.com/gadenbuie/tweetrmd
 	shallow = true
 	branch = main
 	registered = true
