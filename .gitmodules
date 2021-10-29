@@ -49,7 +49,7 @@
 	path = cleanrmd
 	url = https://github.com/gadenbuie/cleanrmd
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "js4shiny"]
 	path = js4shiny
@@ -73,7 +73,7 @@
 	path = shinyComponents
 	url = https://github.com/gadenbuie/shinyComponents
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "countdown"]
 	path = countdown
