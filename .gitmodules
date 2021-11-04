@@ -7,7 +7,7 @@
 	path = xaringanthemer
 	url = https://github.com/gadenbuie/xaringanthemer
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "metathis"]
 	path = metathis
@@ -31,7 +31,7 @@
 	path = xaringanExtra
 	url = https://github.com/gadenbuie/xaringanExtra
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "shrtcts"]
 	path = shrtcts
@@ -55,13 +55,13 @@
 	path = js4shiny
 	url = https://github.com/gadenbuie/js4shiny
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "epoxy"]
 	path = epoxy
 	url = https://github.com/gadenbuie/epoxy
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "ermoji"]
 	path = ermoji
@@ -79,13 +79,13 @@
 	path = countdown
 	url = https://github.com/gadenbuie/countdown
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "regexplain"]
 	path = regexplain
 	url = https://github.com/gadenbuie/regexplain
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "lorem"]
 	path = lorem
