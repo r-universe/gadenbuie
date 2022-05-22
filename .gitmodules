@@ -105,6 +105,11 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "and"]
+	path = and
+	url = https://github.com/rossellhayes/and
+	shallow = true
+	registered = false
 [submodule "chromote"]
 	path = chromote
 	url = https://github.com/rstudio/chromote
