@@ -8,6 +8,12 @@
   {
     "package": "chromote",
     "url": "https://github.com/rstudio/chromote",
+    "via": ["renderthis"],
+    "from": "renderthis"
+  },
+  {
+    "package": "chromote",
+    "url": "https://github.com/rstudio/chromote",
     "via": ["tweetrmd", "webshot2"],
     "from": "tweetrmd"
   },
@@ -44,6 +50,12 @@
   {
     "package": "webshot2",
     "url": "https://github.com/rstudio/webshot2",
+    "via": ["renderthis"],
+    "from": "renderthis"
+  },
+  {
+    "package": "webshot2",
+    "url": "https://github.com/rstudio/webshot2",
     "via": ["tweetrmd"],
     "from": "tweetrmd"
   },
@@ -52,6 +64,12 @@
     "url": "https://github.com/rstudio/webshot2",
     "via": ["xaringanBuilder"],
     "from": "xaringanBuilder"
+  },
+  {
+    "package": "xaringanExtra",
+    "url": "https://github.com/gadenbuie/xaringanExtra",
+    "via": ["renderthis"],
+    "from": "renderthis"
   },
   {
     "package": "xaringanExtra",
