@@ -93,15 +93,21 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "xaringanBuilder"]
-	path = xaringanBuilder
-	url = https://github.com/jhelvy/xaringanBuilder
+[submodule "renderthis"]
+	path = renderthis
+	url = https://github.com/jhelvy/renderthis
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "tweetrmd"]
 	path = tweetrmd
 	url = https://github.com/gadenbuie/tweetrmd
+	shallow = true
+	branch = main
+	registered = true
+[submodule "rsprefs"]
+	path = rsprefs
+	url = https://github.com/gadenbuie/rsprefs
 	shallow = true
 	branch = main
 	registered = true

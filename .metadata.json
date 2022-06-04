@@ -48,9 +48,12 @@
     "package": "lorem"
   },
   {
-    "package": "xaringanBuilder"
+    "package": "renderthis"
   },
   {
     "package": "tweetrmd"
+  },
+  {
+    "package": "rsprefs"
   }
 ]
