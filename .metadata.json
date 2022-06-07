@@ -15,7 +15,8 @@
     "package": "grkstyle"
   },
   {
-    "package": "xaringanExtra"
+    "package": "xaringanExtra",
+    "oncran": false
   },
   {
     "package": "shrtcts"
