@@ -16,7 +16,7 @@
   },
   {
     "package": "xaringanExtra",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "shrtcts"
