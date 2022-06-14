@@ -25,7 +25,8 @@
     "package": "rsthemes"
   },
   {
-    "package": "cleanrmd"
+    "package": "cleanrmd",
+    "oncran": false
   },
   {
     "package": "js4shiny"
