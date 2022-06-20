@@ -26,7 +26,7 @@
   },
   {
     "package": "cleanrmd",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "js4shiny"
