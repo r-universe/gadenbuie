@@ -46,11 +46,5 @@
     "url": "https://github.com/rstudio/webshot2",
     "via": ["tweetrmd"],
     "from": "tweetrmd"
-  },
-  {
-    "package": "xaringanExtra",
-    "url": "https://github.com/gadenbuie/xaringanExtra",
-    "via": ["renderthis"],
-    "from": "renderthis"
   }
 ]
