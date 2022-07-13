@@ -8,12 +8,6 @@
   {
     "package": "chromote",
     "url": "https://github.com/rstudio/chromote",
-    "via": ["renderthis"],
-    "from": "renderthis"
-  },
-  {
-    "package": "chromote",
-    "url": "https://github.com/rstudio/chromote",
     "via": ["tweetrmd", "webshot2"],
     "from": "tweetrmd"
   },
@@ -34,12 +28,6 @@
     "url": "https://github.com/rstudio/sass",
     "via": ["rsthemes"],
     "from": "rsthemes"
-  },
-  {
-    "package": "webshot2",
-    "url": "https://github.com/rstudio/webshot2",
-    "via": ["renderthis"],
-    "from": "renderthis"
   },
   {
     "package": "webshot2",
