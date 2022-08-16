@@ -41,7 +41,8 @@
     "package": "shinyComponents"
   },
   {
-    "package": "countdown"
+    "package": "countdown",
+    "oncran": false
   },
   {
     "package": "regexplain"
