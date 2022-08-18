@@ -42,7 +42,7 @@
   },
   {
     "package": "countdown",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "regexplain"
