@@ -51,7 +51,8 @@
     "package": "lorem"
   },
   {
-    "package": "renderthis"
+    "package": "renderthis",
+    "oncran": true
   },
   {
     "package": "tweetrmd"
