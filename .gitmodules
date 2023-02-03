@@ -111,11 +111,6 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "chromote"]
-	path = chromote
-	url = https://github.com/rstudio/chromote
-	shallow = true
-	registered = false
 [submodule "emo"]
 	path = emo
 	url = https://github.com/hadley/emo
