@@ -48,7 +48,8 @@
     "package": "regexplain"
   },
   {
-    "package": "lorem"
+    "package": "lorem",
+    "oncran": false
   },
   {
     "package": "renderthis",
