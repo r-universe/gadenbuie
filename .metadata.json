@@ -49,7 +49,7 @@
   },
   {
     "package": "lorem",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "renderthis",
