@@ -1,133 +1,92 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/gadenbuie/universe
-	shallow = true
 	branch = HEAD
 [submodule "xaringanthemer"]
 	path = xaringanthemer
 	url = https://github.com/gadenbuie/xaringanthemer
-	shallow = true
 	branch = main
-	registered = true
 [submodule "metathis"]
 	path = metathis
 	url = https://github.com/gadenbuie/metathis
-	shallow = true
 	branch = main
-	registered = true
 [submodule "starwarsdb"]
 	path = starwarsdb
 	url = https://github.com/gadenbuie/starwarsdb
-	shallow = true
 	branch = main
-	registered = true
 [submodule "grkstyle"]
 	path = grkstyle
 	url = https://github.com/gadenbuie/grkstyle
-	shallow = true
 	branch = main
-	registered = true
 [submodule "xaringanExtra"]
 	path = xaringanExtra
 	url = https://github.com/gadenbuie/xaringanExtra
-	shallow = true
 	branch = main
-	registered = true
 [submodule "shrtcts"]
 	path = shrtcts
 	url = https://github.com/gadenbuie/shrtcts
-	shallow = true
 	branch = main
-	registered = true
 [submodule "rsthemes"]
 	path = rsthemes
 	url = https://github.com/gadenbuie/rsthemes
-	shallow = true
 	branch = main
-	registered = true
 [submodule "cleanrmd"]
 	path = cleanrmd
 	url = https://github.com/gadenbuie/cleanrmd
-	shallow = true
 	branch = main
-	registered = true
 [submodule "js4shiny"]
 	path = js4shiny
 	url = https://github.com/gadenbuie/js4shiny
-	shallow = true
 	branch = main
-	registered = true
 [submodule "epoxy"]
 	path = epoxy
 	url = https://github.com/gadenbuie/epoxy
-	shallow = true
 	branch = main
-	registered = true
 [submodule "ermoji"]
 	path = ermoji
 	url = https://github.com/gadenbuie/ermoji
-	shallow = true
 	branch = main
-	registered = true
 [submodule "shinyComponents"]
 	path = shinyComponents
 	url = https://github.com/gadenbuie/shinyComponents
-	shallow = true
 	branch = main
-	registered = true
 [submodule "countdown"]
 	path = countdown
 	url = https://github.com/gadenbuie/countdown
-	shallow = true
 	branch = main
-	registered = true
 [submodule "regexplain"]
 	path = regexplain
 	url = https://github.com/gadenbuie/regexplain
-	shallow = true
 	branch = main
-	registered = true
 [submodule "lorem"]
 	path = lorem
 	url = https://github.com/gadenbuie/lorem
-	shallow = true
 	branch = main
-	registered = true
 [submodule "renderthis"]
 	path = renderthis
 	url = https://github.com/jhelvy/renderthis
-	shallow = true
 	branch = main
-	registered = true
 [submodule "tweetrmd"]
 	path = tweetrmd
 	url = https://github.com/gadenbuie/tweetrmd
-	shallow = true
 	branch = main
-	registered = true
 [submodule "rsprefs"]
 	path = rsprefs
 	url = https://github.com/gadenbuie/rsprefs
-	shallow = true
 	branch = main
-	registered = true
 [submodule "emo"]
 	path = emo
 	url = https://github.com/hadley/emo
-	shallow = true
 	registered = false
 [submodule "ipapi"]
 	path = ipapi
 	url = https://github.com/hrbrmstr/ipapi
-	shallow = true
 	registered = false
 [submodule "sass"]
 	path = sass
 	url = https://github.com/rstudio/sass
-	shallow = true
 	registered = false
 [submodule "webshot2"]
 	path = webshot2
 	url = https://github.com/rstudio/webshot2
-	shallow = true
 	registered = false
