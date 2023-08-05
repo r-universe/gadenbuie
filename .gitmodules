@@ -2,42 +2,18 @@
 	path = .registry
 	url = https://github.com/gadenbuie/universe
 	branch = HEAD
-[submodule "xaringanthemer"]
-	path = xaringanthemer
-	url = https://github.com/gadenbuie/xaringanthemer
-	branch = main
-[submodule "metathis"]
-	path = metathis
-	url = https://github.com/gadenbuie/metathis
-	branch = main
-[submodule "starwarsdb"]
-	path = starwarsdb
-	url = https://github.com/gadenbuie/starwarsdb
-	branch = main
-[submodule "grkstyle"]
-	path = grkstyle
-	url = https://github.com/gadenbuie/grkstyle
-	branch = main
-[submodule "xaringanExtra"]
-	path = xaringanExtra
-	url = https://github.com/gadenbuie/xaringanExtra
-	branch = main
-[submodule "shrtcts"]
-	path = shrtcts
-	url = https://github.com/gadenbuie/shrtcts
-	branch = main
-[submodule "rsthemes"]
-	path = rsthemes
-	url = https://github.com/gadenbuie/rsthemes
-	branch = main
 [submodule "cleanrmd"]
 	path = cleanrmd
 	url = https://github.com/gadenbuie/cleanrmd
 	branch = main
-[submodule "js4shiny"]
-	path = js4shiny
-	url = https://github.com/gadenbuie/js4shiny
+[submodule "countdown"]
+	path = countdown
+	url = https://github.com/gadenbuie/countdown
 	branch = main
+[submodule "emo"]
+	path = emo
+	url = https://github.com/hadley/emo
+	registered = false
 [submodule "epoxy"]
 	path = epoxy
 	url = https://github.com/gadenbuie/epoxy
@@ -46,47 +22,71 @@
 	path = ermoji
 	url = https://github.com/gadenbuie/ermoji
 	branch = main
-[submodule "shinyComponents"]
-	path = shinyComponents
-	url = https://github.com/gadenbuie/shinyComponents
+[submodule "grkstyle"]
+	path = grkstyle
+	url = https://github.com/gadenbuie/grkstyle
 	branch = main
-[submodule "countdown"]
-	path = countdown
-	url = https://github.com/gadenbuie/countdown
-	branch = main
-[submodule "regexplain"]
-	path = regexplain
-	url = https://github.com/gadenbuie/regexplain
+[submodule "ipapi"]
+	path = ipapi
+	url = https://github.com/hrbrmstr/ipapi
+	registered = false
+[submodule "js4shiny"]
+	path = js4shiny
+	url = https://github.com/gadenbuie/js4shiny
 	branch = main
 [submodule "lorem"]
 	path = lorem
 	url = https://github.com/gadenbuie/lorem
 	branch = main
+[submodule "metathis"]
+	path = metathis
+	url = https://github.com/gadenbuie/metathis
+	branch = main
+[submodule "regexplain"]
+	path = regexplain
+	url = https://github.com/gadenbuie/regexplain
+	branch = main
 [submodule "renderthis"]
 	path = renderthis
 	url = https://github.com/jhelvy/renderthis
-	branch = main
-[submodule "tweetrmd"]
-	path = tweetrmd
-	url = https://github.com/gadenbuie/tweetrmd
 	branch = main
 [submodule "rsprefs"]
 	path = rsprefs
 	url = https://github.com/gadenbuie/rsprefs
 	branch = main
-[submodule "emo"]
-	path = emo
-	url = https://github.com/hadley/emo
-	registered = false
-[submodule "ipapi"]
-	path = ipapi
-	url = https://github.com/hrbrmstr/ipapi
-	registered = false
+[submodule "rsthemes"]
+	path = rsthemes
+	url = https://github.com/gadenbuie/rsthemes
+	branch = main
 [submodule "sass"]
 	path = sass
 	url = https://github.com/rstudio/sass
 	registered = false
+[submodule "shinyComponents"]
+	path = shinyComponents
+	url = https://github.com/gadenbuie/shinyComponents
+	branch = main
+[submodule "shrtcts"]
+	path = shrtcts
+	url = https://github.com/gadenbuie/shrtcts
+	branch = main
+[submodule "starwarsdb"]
+	path = starwarsdb
+	url = https://github.com/gadenbuie/starwarsdb
+	branch = main
+[submodule "tweetrmd"]
+	path = tweetrmd
+	url = https://github.com/gadenbuie/tweetrmd
+	branch = main
 [submodule "webshot2"]
 	path = webshot2
 	url = https://github.com/rstudio/webshot2
 	registered = false
+[submodule "xaringanExtra"]
+	path = xaringanExtra
+	url = https://github.com/gadenbuie/xaringanExtra
+	branch = main
+[submodule "xaringanthemer"]
+	path = xaringanthemer
+	url = https://github.com/gadenbuie/xaringanthemer
+	branch = main
