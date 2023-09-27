@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["cleanrmd", "countdown", "epoxy", "ggpomological", "ggweekly", "grkstyle", "js4shiny", "lorem", "metathis", "regexplain", "rsthemes", "shinyComponents", "shrtcts", "sprinkles", "starwarsdb", "tweetrmd", "xaringanExtra", "xaringanthemer"]
+  "repositories": ["ggpomological", "regexplain", "xaringanthemer", "countdown", "rsthemes", "ggweekly", "metathis", "grkstyle", "cleanrmd", "js4shiny", "lorem", "xaringanExtra", "tweetrmd", "epoxy", "shrtcts", "shinyComponents", "starwarsdb", "sprinkles"]
 }
