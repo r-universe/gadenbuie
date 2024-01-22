@@ -10,6 +10,7 @@
 	path = countdown
 	url = https://github.com/gadenbuie/countdown
 	branch = main
+	subdir = r
 [submodule "emo"]
 	path = emo
 	url = https://github.com/hadley/emo
