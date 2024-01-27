@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/gadenbuie/universe
+	url = https://github.com/gadenbuie/gadenbuie.r-universe.dev
 	branch = HEAD
 [submodule "cleanrmd"]
 	path = cleanrmd
