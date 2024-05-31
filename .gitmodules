@@ -9,7 +9,7 @@
 [submodule "collegeScorecard"]
 	path = collegeScorecard
 	url = https://github.com/gadenbuie/scorecard-db
-	branch = refresh
+	branch = main
 	subdir = pkg
 [submodule "countdown"]
 	path = countdown
