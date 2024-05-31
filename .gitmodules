@@ -6,6 +6,11 @@
 	path = cleanrmd
 	url = https://github.com/gadenbuie/cleanrmd
 	branch = main
+[submodule "collegeScorecard"]
+	path = collegeScorecard
+	url = https://github.com/gadenbuie/scorecard-db
+	branch = refresh
+	subdir = pkg
 [submodule "countdown"]
 	path = countdown
 	url = https://github.com/gadenbuie/countdown
