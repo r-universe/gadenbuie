@@ -64,10 +64,6 @@
 	path = rsthemes
 	url = https://github.com/gadenbuie/rsthemes
 	branch = main
-[submodule "sass"]
-	path = sass
-	url = https://github.com/rstudio/sass
-	registered = false
 [submodule "shinyComponents"]
 	path = shinyComponents
 	url = https://github.com/gadenbuie/shinyComponents

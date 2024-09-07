@@ -12,12 +12,6 @@
     "from": "rsthemes"
   },
   {
-    "package": "sass",
-    "url": "https://github.com/rstudio/sass",
-    "via": ["rsthemes"],
-    "from": "rsthemes"
-  },
-  {
     "package": "webshot2",
     "url": "https://github.com/rstudio/webshot2",
     "via": ["tweetrmd"],
