@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/gadenbuie/gadenbuie.r-universe.dev
 	branch = HEAD
+[submodule "btw"]
+	path = btw
+	url = https://github.com/posit-dev/btw
+	branch = main
 [submodule "cleanrmd"]
 	path = cleanrmd
 	url = https://github.com/gadenbuie/cleanrmd
