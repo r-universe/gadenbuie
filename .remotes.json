@@ -1,5 +1,11 @@
 [
   {
+    "package": "ellmer",
+    "url": "https://github.com/tidyverse/ellmer",
+    "via": ["btw"],
+    "from": "btw"
+  },
+  {
     "package": "emo",
     "url": "https://github.com/hadley/emo",
     "via": ["ermoji"],
@@ -10,6 +16,12 @@
     "url": "https://github.com/hrbrmstr/ipapi",
     "via": ["rsthemes"],
     "from": "rsthemes"
+  },
+  {
+    "package": "shinychat",
+    "url": "https://github.com/posit-dev/shinychat",
+    "via": ["btw", "ellmer"],
+    "from": "btw"
   },
   {
     "package": "webshot2",

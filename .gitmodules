@@ -20,6 +20,10 @@
 	url = https://github.com/gadenbuie/countdown
 	branch = main
 	subdir = r
+[submodule "ellmer"]
+	path = ellmer
+	url = https://github.com/tidyverse/ellmer
+	registered = false
 [submodule "emo"]
 	path = emo
 	url = https://github.com/hadley/emo
@@ -72,6 +76,10 @@
 	path = shinyComponents
 	url = https://github.com/gadenbuie/shinyComponents
 	branch = main
+[submodule "shinychat"]
+	path = shinychat
+	url = https://github.com/posit-dev/shinychat
+	registered = false
 [submodule "shrtcts"]
 	path = shrtcts
 	url = https://github.com/gadenbuie/shrtcts
