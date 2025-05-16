@@ -18,12 +18,6 @@
     "from": "rsthemes"
   },
   {
-    "package": "shinychat",
-    "url": "https://github.com/posit-dev/shinychat",
-    "via": ["btw", "ellmer"],
-    "from": "btw"
-  },
-  {
     "package": "webshot2",
     "url": "https://github.com/rstudio/webshot2",
     "via": ["tweetrmd"],
