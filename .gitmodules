@@ -20,10 +20,6 @@
 	url = https://github.com/gadenbuie/countdown
 	branch = main
 	subdir = r
-[submodule "ellmer"]
-	path = ellmer
-	url = https://github.com/tidyverse/ellmer
-	registered = false
 [submodule "emo"]
 	path = emo
 	url = https://github.com/hadley/emo

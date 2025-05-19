@@ -1,11 +1,5 @@
 [
   {
-    "package": "ellmer",
-    "url": "https://github.com/tidyverse/ellmer",
-    "via": ["btw"],
-    "from": "btw"
-  },
-  {
     "package": "emo",
     "url": "https://github.com/hadley/emo",
     "via": ["ermoji"],
