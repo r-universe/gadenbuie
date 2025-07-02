@@ -12,6 +12,12 @@
     "from": "rsthemes"
   },
   {
+    "package": "mcptools",
+    "url": "https://github.com/posit-dev/mcptools",
+    "via": ["btw"],
+    "from": "btw"
+  },
+  {
     "package": "webshot2",
     "url": "https://github.com/rstudio/webshot2",
     "via": ["tweetrmd"],
