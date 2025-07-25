@@ -48,10 +48,6 @@
 	path = lorem
 	url = https://github.com/gadenbuie/lorem
 	branch = main
-[submodule "mcptools"]
-	path = mcptools
-	url = https://github.com/posit-dev/mcptools
-	registered = false
 [submodule "metathis"]
 	path = metathis
 	url = https://github.com/gadenbuie/metathis
