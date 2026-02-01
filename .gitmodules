@@ -20,10 +20,6 @@
 	url = https://github.com/gadenbuie/countdown
 	branch = main
 	subdir = r
-[submodule "emo"]
-	path = emo
-	url = https://github.com/hadley/emo
-	registered = false
 [submodule "epoxy"]
 	path = epoxy
 	url = https://github.com/gadenbuie/epoxy
@@ -36,10 +32,6 @@
 	path = grkstyle
 	url = https://github.com/gadenbuie/grkstyle
 	branch = main
-[submodule "ipapi"]
-	path = ipapi
-	url = https://github.com/hrbrmstr/ipapi
-	registered = false
 [submodule "js4shiny"]
 	path = js4shiny
 	url = https://github.com/gadenbuie/js4shiny
@@ -84,10 +76,6 @@
 	path = tweetrmd
 	url = https://github.com/gadenbuie/tweetrmd
 	branch = main
-[submodule "webshot2"]
-	path = webshot2
-	url = https://github.com/rstudio/webshot2
-	registered = false
 [submodule "xaringanExtra"]
 	path = xaringanExtra
 	url = https://github.com/gadenbuie/xaringanExtra
